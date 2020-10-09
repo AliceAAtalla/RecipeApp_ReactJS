@@ -19,6 +19,12 @@
       "isOrdered": true,
       "folders": {},
       "files": {}
+    },
+    "build": {
+      "name": "build",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
     }
   },
   "files": {

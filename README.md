@@ -4,109 +4,75 @@ Project of a recipe web application. Project was done in group.
 
 #### 🚀 Technologies, libs and frameworks:
 
-* ReactJS
-* React Router Dom
-* React Hooks
-* Context Api
-* Javascript
-* API's: The CockTailDB API & TheMealDB API
-* CSS Pure
-* ESLint
+* [Javascript](https://www.javascript.com/) \- Programming language;
+* [ReactJS](https://reactjs.org/) \- The web framework used;
+* [React Router Dom](https://reactrouter.com/web/guides/) \- Router libraries for React;
+* [React Hooks](https://reactjs.org/docs/hooks-intro.html) \- Use state and other React features without writing a class;
+* [Context Api](https://reactjs.org/docs/context.html) \- Context provides a way to pass data through the component tree without having to pass props down manually at every level;
+* [CSS Pure](https://developer.mozilla.org/en-US/docs/Web/CSS) \- Cascading Style Sheets \(CSS\) is a style sheet language;
+* [ESLint](https://eslint.org/) \- Find and fix problems in your JavaScript code;
+* [The CockTailDB API](https://www.thecocktaildb.com/api.php) \- An open\, crowd\-sourced database of drinks and cocktails from around the world;
+* [TheMealDB API](https://www.themealdb.com/api.php) \- An open\, crowd\-sourced database of Recipes from around the world\.
 
 - - -
 
-Status of the Project: Freeze
+Status of the Project: Finish :star2:
 
 - - -
 
-### Deployment
+#### 🛠️ Deployment
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Desenvolvimento
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) \- O framework web usado
-* [Maven](https://maven.apache.org/) \- Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) \- Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺
-* Obrigado publicamente 🤓.
-* etc.
+https://aliceaatalla.github.io/RecipeApp\_ReactJS/#
 
 - - -
 
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+#### 🔧 How to run the application?
+
+At the terminal, clone the project:
+
+```
+git clone git@github.com:AliceAAtalla/RecipeApp_ReactJS.git
+```
+
+Enter the project folder:
+
+```
+cd RecipeApp_ReactJS
+```
+
+Install the dependencies:
+
+```
+npm install
+```
+
+Run the application:
+
+```
+npm start
+```
+
+There, you can now access the application from the route http://localhost:3000/
+
+## ⚙️ Run the tests:
+
+```
+npm test
+```
+
+## ✒️ Developers:
+
+| [<img src="https://avatars1.githubusercontent.com/u/62206355?s=460&amp;u=e29f8bf10bba8281c77e2d88df973eb25b55d76c&amp;v=4" width="130" height="130"> <br><sub>Alice Atalla</sub>](https://github.com/AliceAAtalla) | [<img src="https://avatars1.githubusercontent.com/u/62182603?s=460&amp;u=aee97a76fdd44bbe51a8229743756ff0cb04a60e&amp;v=4" width="130" height="130"> <br><sub>Jessica Tavares</sub>](https://github.com/jessica-tavares) | [<img src="https://avatars2.githubusercontent.com/u/60404874?s=460&amp;u=5ac8c3307fb5046e6c9d25b4b78bd6996ca1c85b&amp;v=4" width="130" height="130"> <br><sub>Henrique Baeta Leite</sub>](https://github.com/HenriqueBaetaLeite) | [<img src="https://avatars0.githubusercontent.com/u/33362898?s=460&amp;u=451efc473503d377ba69c1c7ecbd00b11fa5afad&amp;v=4" width="130" height="130"> <br><sub>Igor Giamoniano Pereira</sub>](https://github.com/igorgbr) |
+| ------------- | ---------------- | --------------------- | ------------------------ |
+
+## 🎁 Acknowledgements
+
+I appreciate the opportunity to work with such amazing and committed people.
+For the opportunity to train the use of CSS together with my friend Igor.
+For the time we worked together to complete and deliver the project.
+For the growth and learning that this group and project provided me. Thank you! :heart:
+
+- - -
+
+<br>
+<br>
